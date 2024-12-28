@@ -1246,7 +1246,7 @@ m2a_pppcs
 
 # model passes all checks
 
-# 12 Summarise Models 1a and 1b ####
+# 12 Summarise Models 2a and 2b ####
 
 mod2_table
 mod2a_table
@@ -1483,16 +1483,10 @@ m2_fixed_comparisons
 windows()
 m2a_fixed_comparisons
 
-# 15 Save and backup ####
 
-load("C:/Users/besptkac/OneDrive/Project_data/gorilla_milestones/gorilla_milestones_analysis.Rdata")
-
-save.image("E:/OneDrive/Project_data/gorilla_milestones/gorilla_milestones_materials.Rdata")
-
-
-
-
-
+mod1_valid
+mod1a_valid
+mod2_valid
 
 
 
